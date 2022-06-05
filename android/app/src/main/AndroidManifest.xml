@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.bookhub">
+    package="com.example.bookhubuz">
    <application
-        android:label="bookhub"
+        android:label="bookhubuz"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
